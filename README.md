@@ -20,7 +20,6 @@
 3. yarn install --global expo-cli
 4. expo start
 
-
 (O yarn pode ser substituído por outro package manager, como NPM)
 ---
 *God be praised*
