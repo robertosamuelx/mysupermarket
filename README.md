@@ -3,6 +3,10 @@
 **Objetivo:**
 - Desenvolver um aplicativo para smartphones que proporcione compartilhamento de listas de compras
 
+**Requisitos**
+- Nodejs v12.16 ou superior
+- Yarn v1.22 ou superior (pode ser substituído por outro package manager, como NPM)
+
 **Tecnologias envolvidas:**
 - React Native v0.62
 
