@@ -12,7 +12,7 @@
 
 **Dependências:**
 - React v16.9
-- Expo 3.17
+- Expo v3.20.3
 
 **Como usar:**
 1. git clone https://github.com/robertosamuelx/blogbyroberto_frontend.git
